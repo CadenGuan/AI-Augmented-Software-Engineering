@@ -26,7 +26,7 @@
 22:44:24  TOOL        run_shell_command [ok] decision=accept args={   "command": ".venv/bin/pytest",   "description": "Run pytest using 
 22:44:24  REQUEST     model=gemini-3.5-flash-lite
 22:44:25  RESPONSE #8   model=gemini-3.5-flash-lite input=15131 output=98 cached=12126 thoughts=47 ms=1215
-22:44:28  TOOL        run_shell_command [ok] decision=accept args={   "command": "pwd && /Users/mac/Documents/Caden/UCSC/Fall_2026/CSE 1
+22:44:28  TOOL        run_shell_command [ok] decision=accept args={   "command": "pwd && /Users/[REDACTED]/Documents/[REDACTED]
 22:44:28  REQUEST     model=gemini-3.5-flash-lite
 22:44:29  RESPONSE #9   model=gemini-3.5-flash-lite input=15427 output=91 cached=12121 thoughts=76 ms=1273
 22:44:31  TOOL        run_shell_command [ok] decision=accept args={   "description": "Run pytest with quoted absolute path.",   "command
